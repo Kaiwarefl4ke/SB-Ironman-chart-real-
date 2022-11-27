@@ -2,6 +2,7 @@
 
 ※もう作ってあるミニオンは無視してok
 
+# __Early Game:__
 1: Hubに入ってbankの後ろにいるJamieに話しかけてRogue swordを入手、そのまま他の人にも話しかけてQuestをクリア
 2: Rookie Hoeを買って小麦を栽培する、Farmer Suit一式をつくる、Farming islandに行ってバニラの経験値が15になるまで牛,鶏、豚を倒してそれぞれのt1ミニオンを作る 
 3: Miningを進めてt2金ミニオン,t2赤石ミニオン,t2ラピスミニオン,E金10, E赤石10,Eラピス10をゲットする、Lapis armorも一緒に集める
@@ -10,4 +11,10 @@
 5: 防具にG5 P5をつける
 6: Spider's denのrelicと今までの金を合わせて140kを集め、誰かに協力してもらってRaiders axeを買う (https://hypixel-skyblock.fandom.com/wiki/Relics)
 7: 防具をFierce/Pure, 武器をSharp/SpicyにReforgeしてCombat level 12までDeep Cavernの最下層でmob狩り
+8: Raiders AxeをEnchantしてEnder ArmorフルセットまでEman狩り, ついでにAOTEを作る
+9: Dragon装備完成まで粘る
+10: 完成!
 
+# __Mid Game:__
+1: Dungeonに潜ってdreadlord sword?+モブが落とした適当な装備+GoggleでMageになる
+2:
